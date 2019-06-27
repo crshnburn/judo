@@ -1,13 +1,6 @@
-<p align='center'>
-  <img src='./assets/logo.png' width='350'>
-</p>
+# @crshnburn/judo
 
-<p align='center'>
-   <a href='https://circleci.com/gh/intuit/judo'><img src='https://circleci.com/gh/intuit/judo.svg?style=svg' alt='CircleCI build'/></a>
-  <a href='https://www.npmjs.com/package/@intuit/judo'><img src='https://img.shields.io/npm/v/@intuit/judo.svg' alt='NPM Version'/></a>
-  <a href='https://www.npmjs.com/package/@intuit/judo'><img src='https://img.shields.io/npm/dt/@intuit/judo.svg' alt='NPM downloads'/></a>
-  <a href='https://codecov.io/gh/Intuit/judo'><img src='https://img.shields.io/codecov/c/github/intuit/judo.svg' alt='Code Coverage'/></a>
-</p>
+*Local fork published to get access to latest code in a CI environment.* This version will be deprecated as soon as @intuit/judo is at the same level of code.
 
 Judo is an easy-to-use Command Line Interface (CLI) integration testing framework, driven from a simple `yaml` file that instructs the framework what commands to run and how to assert the outcome. Test your CLI tools in an automated fashion using nothing but stdin, stdout and stderr.
 

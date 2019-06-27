@@ -1,11 +1,7 @@
 {
-  "name": "@intuit/judo",
-  "version": "0.0.16",
+  "name": "@crshnburn/judo",
+  "version": "0.0.17",
   "description": "Test command line interfaces.",
-  "author": {
-    "name": "Evan Francis",
-    "email": "Evan_Francis@intuit.com"
-  },
   "publishConfig": {
     "allow": "public",
     "registry": "https://registry.npmjs.org/"
@@ -19,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Intuit/judo"
+    "url": "https://github.com/crshnburn/judo"
   },
   "engines": {
     "node": ">=6.0.0"
